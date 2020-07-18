@@ -147,7 +147,7 @@ def salva_carteira(fundo, cnpj):
                 if len(opcoes) != (int(opcoes[0][-1].split('/')[0]) - int(opcoes[-1][-1].split('/')[0]) + 1) + 12 * (
                         int(opcoes[0][-1].split('/')[1]) - int(opcoes[-1][-1].split('/')[1])):
                     print('Deixaram de mandar algum demonstrativo mensal')
-                out = 'C:\\Users\luiz\\Documents\\output\\' + fundo+"\\htmls"
+                out = 'htmls\\' + fundo
                 if not os.path.exists(out):
                     os.makedirs(out)
                 #if not (os.path.isfile(out + '/' + opcoes[0][-1].split('/')[1] + opcoes[0][-1].split('/')[0] + cnpj + '.html')):
@@ -189,7 +189,7 @@ def salva_carteira(fundo, cnpj):
 #print(sys.argv[1])
 #salva_carteira(sys.argv[1].upper(), Fundos[sys.argv[1].upper()])
 
-output = "C:\\Users\\luiz\\Documents\\output\\"
+#output = "C:\\Users\\luiz\\Documents\\output\\"
 fundos = [x for x in os.listdir(output) if not '.' in x ]
 fundos = ['TORK']
 for w in fundos:

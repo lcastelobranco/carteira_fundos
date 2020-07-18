@@ -8,28 +8,28 @@ import numpy as np
 import pytesseract
 import os
 import sys
-pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract.exe'
+pytesseract.pytesseract.tesseract_cmd = r'C:\Users\luiz.cavalcante\AppData\Local\Tesseract-OCR\tesseract.exe'
 
 
-import socket
-import socks
+#import socket
+#import socks
 
 
-def connectTor():
-    socks.setdefaultproxy(socks.PROXY_TYPE_SOCKS5,"127.0.0.1",9050,True, 'socks5_user','socks_pass')
-    socket.socket = socks.socksocket
-    print("\n Connected to Tor")
+#def connectTor():
+#    socks.setdefaultproxy(socks.PROXY_TYPE_SOCKS5,"127.0.0.1",9050,True, 'socks5_user','socks_pass')
+#    socket.socket = socks.socksocket
+#    print("\n Connected to Tor")
 
-def newidentity():
-    socks.setdefaultproxy()
-    s = socket.socket(socket.AF_INET,socket.SOCK_STREAM)
-    s.connect(("127.0.0.1",9051))
-    s.send("AUTHENTICATE\r\n")
-    response = s.recv(128)
-    if response.startswith("250"):
-        s.send("SIGNAL NEWNYM\r\n")
-        s.close()
-        connectTor()
+#def newidentity():
+#    socks.setdefaultproxy()
+#    s = socket.socket(socket.AF_INET,socket.SOCK_STREAM)
+#    s.connect(("127.0.0.1",9051))
+#    s.send("AUTHENTICATE\r\n")
+#    response = s.recv(128)
+#    if response.startswith("250"):
+#        s.send("SIGNAL NEWNYM\r\n")
+#        s.close()
+#        connectTor()
 
 from math import sqrt
 
@@ -137,7 +137,7 @@ def salva_carteira(fundo, cnpj):
                 if len(opcoes) != (int(opcoes[0][-1].split('/')[0]) - int(opcoes[-1][-1].split('/')[0]) + 1) + 12 * (
                         int(opcoes[0][-1].split('/')[1]) - int(opcoes[-1][-1].split('/')[1])):
                     print('Deixaram de mandar algum demonstrativo mensal')
-                out = 'C:\\Users\luiz\\Documents\\output\\' + fundo+"\\htmls"
+                out = 'htmls\\' + fundo
                 if not os.path.exists(out):
                     os.makedirs(out)
                 if not (os.path.isfile(out + '/' + opcoes[0][-1].split('/')[1] + opcoes[0][-1].split('/')[0] + cnpj + '.html')):
