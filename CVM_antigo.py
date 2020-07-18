@@ -8,56 +8,59 @@ import numpy as np
 import pytesseract
 import os
 import sys
-pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract.exe'
+import pdb
 
 
-import socket
-import socks
 
+pytesseract.pytesseract.tesseract_cmd = r'C:\Users\luiz.cavalcante\AppData\Local\Tesseract-OCR\tesseract.exe'
 
-def connectTor():
-    socks.setdefaultproxy(socks.PROXY_TYPE_SOCKS5,"127.0.0.1",9050,True, 'socks5_user','socks_pass')
-    socket.socket = socks.socksocket
-    print("\n Connected to Tor")
-
-def newidentity():
-    socks.setdefaultproxy()
-    s = socket.socket(socket.AF_INET,socket.SOCK_STREAM)
-    s.connect(("127.0.0.1",9051))
-    s.send("AUTHENTICATE\r\n")
-    response = s.recv(128)
-    if response.startswith("250"):
-        s.send("SIGNAL NEWNYM\r\n")
-        s.close()
-        connectTor()
-
-from math import sqrt
-
-
-def possiveis_precos(num):
-    num = abs(int(num))
-    lista = []
-    p = []
-
-    for i in range(1, int(sqrt(num)) + 1):
-        if (num % i == 0):
-            z = str(i / float(100))
-            z2 = str(num / float(100 * i))
-            if z[-2] == '.':
-                z = z + '0'
-            if z2[-2] == '.':
-                z2 = z2 + '0'
-            lista.append(z)
-            lista.append(z2)
-
-    lista = sorted(list(set(lista)))
-
-    return lista
-
+Fundos={'3GRADAR' : '18324976000185' ,
+            'APEX' : '13950080000198' ,
+            'ARX' : '04515848000104' ,
+            'ADAM' : '23884632000160' ,
+            'ALASKA' : '26673556000132' ,
+            'ATMOS' : '11188572000162' ,
+            'BOGARI' : '15165493000197' ,
+            'BRASIL' : '11176045000138' ,
+            'BTG' : '12976456000170' ,
+            'CLARITAS' : '12219414000195' ,
+            'CONST' : '11225860000140' ,
+            'CONSTANCIA':'11182064000177', 
+            'DAHLIA-LB' : '30317436000170',
+            'DAHLIA' : '31635364000171',
+            'DYNAMO' : '73232530000139' ,
+            'EQUITAS' : '11980010000157' ,
+            'FAMA' : '09441424000166' ,
+            'HIX' : '28767201000138' ,
+            'IBIUNA': '13396819000161',
+            'IP' : '04702079000153' ,
+            'JGP' : '11228490000102' ,
+            'LEBLON' : '10346018000101' ,
+            'MSQUARE' : '08927452000125' ,
+            'NEO' : '29994412000176',
+            'NUCLEO' : '14138786000112' ,
+            'OCEANA' : '18454944000102' ,
+            'OPPORTUNITY' : '06964937000163' ,
+            'PERFIN' : '11695287000138' ,
+            'POLLUX' : '16498954000106' ,
+            'POLO' : '07914903000127' ,
+            'RIOBRAVO' : '06940782000125' ,
+            'SPX' : '15350712000108' ,
+            'SQUADRA' : '09288254000121' ,
+            'SQUADRA-LB' : '09412648000140' ,
+            'TEMPO' : '11046362000130',
+            'TARPON' : '27389566000103',
+            'MASTER':'11225860000140',
+            'FIC':'08671980000166',
+            'VERSA':'18832847000106',
+            'SHARP':'32318881000180',
+            'TORK':'31493903000185',
+            'KIRON':'28408139000198',
+            'VELT':'08927452000125',
+            'TRUXT':'26859564000178',
+            'VERDE-LB':'16929553000163',}
 
 def mudancas_morfologicas(imagem,x=3,tipo='erode'):
-
-
     im_gray = np.array(imagem)
     kernel = np.ones((x, x), np.uint8)
     if tipo == 'erode' or tipo == 'dilate':
@@ -98,12 +101,13 @@ def captcha():
 
 
 def salva_carteira(fundo, cnpj):
+
     url = "http://cvmweb.cvm.gov.br/SWB/Sistemas/SCW/CPublica/FormBuscaPartic.aspx?CD_ERRO=4&TpConsulta=5"
     imagem, cookies_dict,__VIEWSTATE,__EVENTVALIDATION,__VIEWSTATEGENERATOR,resposta = captcha()
     if not resposta:
         salva_carteira(fundo, cnpj)
     else:
-        print(resposta)
+        #print(resposta)
         url =  "https://cvmweb.cvm.gov.br/SWB/Sistemas/SCW/CPublica/ResultBuscaPartic.aspx?TpConsulta=5&CNPJNome="+str(cnpj)+"&COMPTC=&numRandom="+resposta
         params = {'__EVENTTARGET': '',
               '__EVENTARGUMENT': '',
@@ -131,6 +135,12 @@ def salva_carteira(fundo, cnpj):
                 #print('Deu erro no CNPJ que voltou')
             else:
                 opcoes = re.findall(r'<option(.*?)value="(.*?)">(.*?)</option>', r3.text)
+                
+                #t = 0
+                print(opcoes[0][-1],end=' ')
+                #if opcoes[0][-1] == '02/2020':
+                #    t = 1
+                
                 if opcoes[-1][-1] == 'Anteriores':
                     opcoes = opcoes[:-1]
                 # Testa se o fundo deixou de mandar algum demonstrativo mensal
@@ -140,15 +150,16 @@ def salva_carteira(fundo, cnpj):
                 out = 'C:\\Users\luiz\\Documents\\output\\' + fundo+"\\htmls"
                 if not os.path.exists(out):
                     os.makedirs(out)
-                if not (os.path.isfile(out + '/' + opcoes[0][-1].split('/')[1] + opcoes[0][-1].split('/')[0] + cnpj + '.html')):
-                    with open(out + '/' + opcoes[0][-1].split('/')[1] + opcoes[0][-1].split('/')[0] + cnpj + '.html', 'w') as f:
-                        f.write(r3.text)
+                #if not (os.path.isfile(out + '/' + opcoes[0][-1].split('/')[1] + opcoes[0][-1].split('/')[0] + cnpj + '.html')):
+                with open(out + '/' + opcoes[0][-1].split('/')[1] + opcoes[0][-1].split('/')[0] + cnpj + '.html', 'w') as f:
+                    f.write(r3.text)
 
 
                 #return
                 ####
-                #for n in range(1,13):
+                #for n in range(1,min(13,len(opcoes))):
                 #for n in range(1,len(opcoes)):
+                #for n in [3-t,4-t,5-t]:
                 for n in [3]:
 
                     __VIEWSTATE = re.findall('name="__VIEWSTATE" id="__VIEWSTATE" value="(.*?)" />\r\n\r\n<input', r3.text)[0]
@@ -165,15 +176,22 @@ def salva_carteira(fundo, cnpj):
                                 '__EVENTVALIDATION': __EVENTVALIDATION,
                                 'ddCOMPTC': opcoes[n][1]
                     }
+                    print(opcoes[n][-1],end=' ')
                     r3 = requests.post(url, cookies=cookies_dict, data=params)
-                    if not (
-                    os.path.isfile(out + '/' + opcoes[n][-1].split('/')[1] + opcoes[n][-1].split('/')[0] + cnpj + '.html')):
-                        with open(out + '/' + opcoes[n][-1].split('/')[1] + opcoes[n][-1].split('/')[0] + cnpj + '.html',
-                                  'w') as f:
-                            f.write(r3.text)
+                    #if not (
+                    #os.path.isfile(out + '/' + opcoes[n][-1].split('/')[1] + opcoes[n][-1].split('/')[0] + cnpj + '.html')):
+                    with open(out + '/' + opcoes[n][-1].split('/')[1] + opcoes[n][-1].split('/')[0] + cnpj + '.html',
+                              'w') as f:
+                        f.write(r3.text)
 
-#connectTor()
-#newidentity()
-#print(sys.argv[1], sys.argv[2])
+
 #salva_carteira(sys.argv[1], sys.argv[2])
-salva_carteira('CONSTANCIA', '11.182.064/0001-77'.replace('-','').replace('.','').replace('/',''))
+#print(sys.argv[1])
+#salva_carteira(sys.argv[1].upper(), Fundos[sys.argv[1].upper()])
+
+output = "C:\\Users\\luiz\\Documents\\output\\"
+fundos = [x for x in os.listdir(output) if not '.' in x ]
+fundos = ['TORK']
+for w in fundos:
+    print('\n'+w,end=' ')
+    salva_carteira(w.upper(), Fundos[w].upper())
