@@ -1,0 +1,41 @@
+	index	aserestudado	ativo1	ativo2	ativo3	ativo4	classificacao	emp_ligada	vendas_quant	vendas_montante	aquis_quant	aquis_montante	pf_quant	pf_valor_custo	pf_valor_mercado	porcent_partrimonio_liquido	fechado	candidatos	cand_pf_quant	grupo
+20	8	58845412	Ações		WEGE3		Para negociacao	Nao		0.0		6028661900.0	3685489.0		15416400400	3.0	True	WEGE3	3685489.0	1
+96	14	58845413	Ações		VIVA3		Para negociacao	Nao		0.0		199634000.0	3579600.0		6865672800	1.0	True	VIVA3	3579600.0	1
+183	4	58845414	Ações		TOTS3		Para negociacao	Nao		0.0		22732316300.0	9443453.0		18990783900	4.0	True	TOTS3	9443453.0	1
+264	16	58845415	Ações		TEND3		Para negociacao	Nao		0.0		985024900.0	2456300.0		6162856700	1.0	True	TEND3	2456300.0	1
+334	6	58845416	Ações		SUZB3		Para negociacao	Nao		0.0		2189435000.0	4227800.0		16006450800	4.0	True	SUZB3	4227800.0	1
+377	12	58845417	Ações		RENT3		Para negociacao	Nao		1731538800.0		299115600.0	2397982.0		9227434700	2.0	True	RENT3	2397982.0	1
+436	1	58845418	Ações	Cod. Ativo:	RAIL3	Dt. Ini. Vigen.:13/03/2017	Para negociacao	Nao	0.0	0.0	437300.0	899318931.0	13207544.0		29756596632	7.651	False	RAIL3	13207544.0	1
+448	7	58845419	Ações		RADL3		Para negociacao	Nao		0.0		5671047100.0	1442074.0		15782057800	4.0	True	RADL3	1442074.0	1
+506	17	58845420	Ações		PSSA3		Para negociacao	Nao		0.0		1581342200.0	1128420.0		5337426600	1.0	True	PSSA3	1128420.0	1
+591	5	58845421	Ações		NTCO3		Para negociacao	Nao		0.0		5067007900.0	4546500.0		16903887000	4.0	True	NTCO3	4546500.0	1
+696	10	58845422	Ações		MGLU3		Para negociacao	Nao		1005450800.0		258798800.0	1890018.0		12162265800	3.0	True	MGLU3	1890018.0	1
+786	18	58845423	Ações		LREN3		Para negociacao	Nao		1338308700.0		132449800.0	1069234.0		4121897000	1.0	True	LREN3	1069234.0	1
+839	13	58845424	Ações		LAME4		Para negociacao	Nao		0.0		876822100.0	2563300.0		7241322500	1.0	True	LAME4	2563300.0	1
+944	21	58845425	Ações		LAME3		Para negociacao	Nao		0.0		422611800.0	797500.0		1867745000	0.0	True	LAME3	797500.0	1
+1007	39	58845426	Certificado ou recibo de depósito de valores mobiliários		KLBN11		Para negociacao	Nao					1996000.0		3934116000	1.0	True	KLBN11	1996000.0	1
+1142	3	58845427	Ações		GNDI3		Para negociacao	Nao		0.0		535928400.0	3070209.0		19127402000	4.0	True	GNDI3	3070209.0	1
+1204	19	58845428	Ações		EZTC3		Para negociacao	Nao		6293748900.0		143025200.0	1054734.0		3439487500	0.0	True	EZTC3	1054734.0	1
+1251	15	58845429	Ações		EQTL3		Para negociacao	Nao		0.0		221784900.0	3130220.0		6276091100	1.0	True	EQTL3	3130220.0	1
+1314	38	58845430	Certificado ou recibo de depósito de valores mobiliários		ENGI11		Para negociacao	Nao					2607424.0		12385264000	3.0	True	ENGI11	2607424.0	1
+1371	11	58845431	Ações		ENEV3		Para negociacao	Nao		0.0		330474800.0	2706805.0		10337288200	2.0	True	ENEV3	2706805.0	1
+1389	0	58845432	Ações	Cod. Ativo:	B3SA3	Dt. Ini. Vigen.:26/03/2018	Para negociacao	Nao	0.0	0.0	23200.0	101198400.0	10060500.0		45825577500	11.782	False	B3SA3	10060500.0	1
+1425	20	58845433	Ações		ARZZ3		Para negociacao	Nao		0.0		108949900.0	814300.0		3428203000	0.0	True	ARZZ3	814300.0	1
+1507	22	58845434	Ações		ALPK3		Para negociacao	Nao		26244800.0		603750000.0	548700.0		521265000	0.0	True	ALPK3	548700.0	1
+1551	25	58845435	Ações e outros TVM cedidos em empréstimo		WEGE3		Para negociacao	Nao					1000411.0		4184719200	1.0	True	WEGE3	1000411.0	2
+1631	35	58845436	Ações e outros TVM cedidos em empréstimo		VIVA3		Para negociacao	Nao					391500.0		750897000	0.0	True	VIVA3	391500.0	2
+1720	23	58845437	Ações e outros TVM cedidos em empréstimo		TOTS3		Para negociacao	Nao					2403221.0		4832877400	1.0	True	TOTS3	2403221.0	2
+1755	24	58845438	Ações e outros TVM cedidos em empréstimo		RENT3		Para negociacao	Nao					1144090.0		4402458300	1.0	True	RENT3	1144090.0	2
+1817	2	58845439	Ações e outros TVM cedidos em empréstimo	Cod. Ativo:	RAIL3	Dt. Ini. Vigen.:13/03/2017	Para negociacao	Nao					1640783.0		3696684099	0.95	False	RAIL3	1640783.0	2
+1820	27	58845440	Ações e outros TVM cedidos em empréstimo		RADL3		Para negociacao	Nao					289926.0		3172950100	0.0	True	RADL3	289926.0	2
+1883	28	58845441	Ações e outros TVM cedidos em empréstimo		PSSA3		Para negociacao	Nao					598880.0		2832702400	0.0	True	PSSA3	598880.0	2
+1961	29	58845442	Ações e outros TVM cedidos em empréstimo		MGLU3		Para negociacao	Nao					412882.0		2656895600	0.0	True	MGLU3	412882.0	2
+2051	32	58845443	Ações e outros TVM cedidos em empréstimo		LREN3		Para negociacao	Nao					430353.0		1659010800	0.0	True	LREN3	430353.0	2
+2154	33	58845444	Ações e outros TVM cedidos em empréstimo		GNDI3		Para negociacao	Nao					198691.0		1237844900	0.0	True	GNDI3	198691.0	2
+2215	34	58845445	Ações e outros TVM cedidos em empréstimo		EZTC3		Para negociacao	Nao					268584.0		875852400	0.0	True	EZTC3	268584.0	2
+2297	30	58845446	Ações e outros TVM cedidos em empréstimo		EQTL3		Para negociacao	Nao					1056980.0		2119244900	0.0	True	EQTL3	1056980.0	2
+2367	26	58845447	Ações e outros TVM cedidos em empréstimo		ENGI11		Para negociacao	Nao					845679.0		4016975200	1.0	True	ENGI11	845679.0	2
+2424	31	58845448	Ações e outros TVM cedidos em empréstimo		ENEV3		Para negociacao	Nao					473895.0		1809805000	0.0	True	ENEV3	473895.0	2
+2499	36	58845449	Ações e outros TVM cedidos em empréstimo		ARZZ3		Para negociacao	Nao					106500.0		448365000	0.0	True	ARZZ3	106500.0	2
+2585	9	58845454	Ações		BPAC11		Para negociacao	Nao		1905733500.0		325364400.0	2693000.0		13152612000	3.0	True	BPAC11	2693000.0	3
+2659	37	58845455	Brazilian Depository Receipt - BDR		ALUP11		Para negociacao	Nao					34782.0		86502800	0.0	True	ALUP11	34782.0	3
