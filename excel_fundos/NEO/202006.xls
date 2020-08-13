@@ -1,0 +1,9 @@
+	index	aserestudado	ativo1	ativo2	ativo3	ativo4	classificacao	emp_ligada	vendas_quant	vendas_montante	aquis_quant	aquis_montante	pf_quant	pf_valor_custo	pf_valor_mercado	porcent_partrimonio_liquido	fechado	candidatos	cand_pf_quant	grupo
+44	5	59129902	Ações		CAML3		Para negociacao	Nao		0		0	14711500		16506303000	27	TRUE	CAML3	14711500	1
+139	8	59129903	Ações		CVCB3		Para negociacao	Nao		0		0	1486650		2696783100	4	TRUE	CVCB3	1486650	1
+197	7	59129904	Ações		HAPV3		Para negociacao	Nao		0		0	734500		4566386500	7	TRUE	HAPV3	734500	1
+207	9	59129905	Ações		RENT3		Para negociacao	Nao		0		0	505410		2067632300	3	TRUE	RENT3	505410	1
+277	4	59129906	Ações		VIVA3		Para negociacao	Nao		1644759500		0	8674450		18268391700	30	TRUE	VIVA3	8674450	1
+377	10	59129907	Ações e outros TVM cedidos em empréstimo		RENT3		Para negociacao	Nao					150000		613650000	1	TRUE	RENT3	150000	2
+445	11	59129908	Ações e outros TVM cedidos em empréstimo		VIVA3		Para negociacao	Nao					136450		287363700	0	TRUE	VIVA3	136450	2
+505	6	59129909	Ações		ALPA4		Para negociacao	Nao		0		1098206400	2645951		7747344500	13	TRUE	ALPA4	2645951	1
