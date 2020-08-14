@@ -1,0 +1,45 @@
+	aserestudado	ativo1	ativo2	ativo3	ativo4	classificacao	emp_ligada	vendas_quant	vendas_montante	aquis_quant	aquis_montante	pf_quant	pf_valor_custo	pf_valor_mercado	porcent_partrimonio_liquido	fechado
+3	59631528	Cotas de Fundos		BNY MELLON ARX OVER V3 FUNDO DE INVESTIMENTO RENDA FIXA CURTO PRAZO			Sim					207876845.0		21418043816.0	7.139368898378283	False
+5	59631529	Cotas de Fundos		BNY MELLON ARX OVER V2 FUNDO DE INVESTIMENTO RENDA FIXA CURTO PRAZO			Sim					207876849.0		21418043209.0	7.139368696044356	False
+4	59631530	Cotas de Fundos		BNY MELLON ARX OVER V1 FUNDO DE INVESTIMENTO RENDA FIXA CURTO PRAZO			Sim					207876850.0		21418043271.0	7.139368716711083	False
+35	59631531	Certificado ou recibo de depósito de valores mobiliários		SULA11		Para negociacao	Nao					1869001.0		8423587507.0	2.8078707456615493	True
+27	59631532	Ações		SHOW3		Para negociacao	Nao		0.0		0.0	1156023.0		304034049.0	0.10134498052791821	True
+26	59631533	Ações		SEER3		Para negociacao	Nao		0.0		6907500.0	1412121.0		2118181500.0	0.7060625728537944	True
+25	59631534	Ações		RENT3		Para negociacao	Nao		0.0		7898100.0	662509.0		2710324319.0	0.903444091991809	True
+17	59631535	Ações		RAIL3		Para negociacao	Nao		0.0		32120400.0	4412763.0		9924303987.0	3.30811104093034	True
+13	59631536	Ações		NTCO3		Para negociacao	Nao		992216900.0		67586600.0	4993602.0		19924471980.0	6.641510158101245	True
+18	59631537	Ações		MRVE3		Para negociacao	Nao		889522500.0		36474900.0	5363706.0		9654670800.0	3.2182330480671277	True
+0	59631538	Ações	Cod. Ativo:	MGLU3	Dt. Ini. Vigen.:02/05/2011	Para negociacao	Nao	292900.0	2040972029.0	572041.0	3520375081.0	3829668.0		27439571220.0	9.146550592382253	False
+2	59631539	Ações	Cod. Ativo:	ITUB4	Dt. Ini. Vigen.:20/05/2009	Para negociacao	Nao	0.0	0.0	9900.0	23423400.0	3058276.0		7783312420.0	2.5944450900879326	False
+19	59631540	Ações		ITSA4		Para negociacao	Nao		0.0		2000282000.0	8021357.0		7692481363.0	2.564167982200601	True
+22	59631541	Ações		IGTA3		Para negociacao	Nao		0.0		12968500.0	1158753.0		3864441255.0	1.288150866744727	True
+20	59631542	Ações		HGTX3		Para negociacao	Nao		0.0		18837500.0	4234469.0		6063759608.0	2.021259136665765	True
+14	59631543	Ações		HAPV3		Para negociacao	Nao		0.0		3708628900.0	2607173.0		16208794541.0	5.402947375603553	True
+23	59631544	Ações		GNDI3		Para negociacao	Nao		0.0		2947289600.0	470400.0		3199190400.0	1.0663999307298073	True
+15	59631545	Ações		EQTL3		Para negociacao	Nao		0.0		38112000.0	5948549.0		13812530778.0	4.604190442951608	True
+37	59631546	Certificado ou recibo de depósito de valores mobiliários		ENGI11		Para negociacao	Nao					1077927.0		5281842300.0	1.760619268814312	True
+12	59631547	Ações		ENEV3		Para negociacao	Nao		0.0		4904222300.0	5605782.0		25214807436.0	8.404960487226965	True
+24	59631548	Ações		CVCB3		Para negociacao	Nao		0.0		8215000.0	1649632.0		2992432448.0	0.9974804110630077	True
+16	59631549	Ações		BRML3		Para negociacao	Nao		0.0		38069500.0	11028378.0		11116605024.0	3.705545886716911	True
+28	59631550	Ações		BIDI4		Para negociacao	Nao		0.0		154694300.0	126900.0		182736000.0	0.06091217882556852	True
+29	59631551	Ações		BIDI3		Para negociacao	Nao		0.0		148920000.0	133068.0		168331020.0	0.05611050472884572	True
+36	59631552	Certificado ou recibo de depósito de valores mobiliários		BIDI11		Para negociacao	Nao					1618028.0		6666275360.0	2.222098310288072	True
+1	59631553	Ações	Cod. Ativo:	B3SA3	Dt. Ini. Vigen.:26/03/2018	Para negociacao	Nao	0.0	0.0	7600.0	34602800.0	2369862.0		13055569758.0	4.351869362189062	False
+21	59631554	Ações		ANIM3		Para negociacao	Nao		0.0		11480100.0	1591504.0		3910325328.0	1.3034456026469106	True
+32	59631555	Ações e outros TVM cedidos em empréstimo		NTCO3		Para negociacao	Nao					283252.0		1130175480.0	0.3767262659904602	True
+30	59631556	Ações e outros TVM cedidos em empréstimo		MRVE3		Para negociacao	Nao					1257598.0		2263676400.0	0.7545610152351981	True
+31	59631557	Ações e outros TVM cedidos em empréstimo		HAPV3		Para negociacao	Nao					231990.0		1442281830.0	0.4807620214179374	True
+33	59631558	Ações e outros TVM cedidos em empréstimo		ENEV3		Para negociacao	Nao					75406.0		339176188.0	0.11305906125137163	True
+34	59631559	Ações e outros TVM cedidos em empréstimo		BRML3		Para negociacao	Nao					254409.0		256444272.0	0.08548167495653146	True
+40	59631560	Investimento no Exterior				Para negociacao	Nao							371530500.0	0.12384386357998908	True
+38	59631561	Investimento no Exterior				Para negociacao	Nao							5863618200.0	1.9545451381405863	True
+7	59631562	Investimento no Exterior	Nome do emissor: 	StoneCo Ltd		Para negociacao	Nao					443687.0		9328679790.0	3.109569059052113	False
+9	59631563	Investimento no Exterior	Nome do emissor: 	MERCADOLIBRE INC		Para negociacao	Nao					5567.0		2976847123.0	0.9922852874778652	False
+39	59631564	Investimento no Exterior				Para negociacao	Nao							2987511900.0	0.9958402235810895	True
+8	59631565	Investimento no Exterior	Nome do emissor: 	ANHEUSER BUSCH INBEV WOR		Para negociacao	Nao					167412.0		4477063122.0	1.4923587552568847	False
+42	59631566	Opções - Posições titulares				Para negociacao	Nao							2728530700.0	0.9095129034752519	True
+43	59631567	Outros valores mobiliários registrados na CVM objeto de oferta pública				Para negociacao	Nao							1109237700.0	0.3697469855007351	True
+41	59631568	Mercado Futuro - Posições vendidas				Para negociacao								2339200.0	0.0007797356224759755	True
+11	59631569	Valores a receber	Descrição:	Valores a Receber		Para negociacao								256431774.0	0.08547750894430091	False
+10	59631570	Valores a pagar	Descrição:	Valores a Pagar		Para negociacao								7501694203.0	2.5005720754961622	False
+6	59631571	Disponibilidades	Descrição:	Disponibilidade		Para negociacao								558385.0	0.00018612887976925772	False

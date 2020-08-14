@@ -1,0 +1,60 @@
+	aserestudado	ativo1	ativo2	ativo3	ativo4	classificacao	emp_ligada	vendas_quant	vendas_montante	aquis_quant	aquis_montante	pf_quant	pf_valor_custo	pf_valor_mercado	porcent_partrimonio_liquido	fechado
+51	59976701	Cotas de Fundos					Sim							556024000	0.104121307	TRUE
+50	59976702	Cotas de Fundos					Sim							878844400	0.164572802	TRUE
+42	59976703	Cotas de Fundos					Sim							879000700	0.164602071	TRUE
+41	59976704	Cotas de Fundos					Sim							879004100	0.164602708	TRUE
+47	59976705	Cotas de Fundos					Sim							878985000	0.164599131	TRUE
+48	59976706	Cotas de Fundos					Sim							878977400	0.164597708	TRUE
+43	59976707	Cotas de Fundos					Sim							878995000	0.164601004	TRUE
+45	59976708	Cotas de Fundos					Sim							878992000	0.164600442	TRUE
+44	59976709	Cotas de Fundos					Sim							878993300	0.164600685	TRUE
+49	59976710	Cotas de Fundos					Sim							878957200	0.164593925	TRUE
+46	59976711	Cotas de Fundos					Sim							878989400	0.164599955	TRUE
+32	59976712	Ações e outros TVM cedidos em empréstimo		ENEV3		Para negociacao	Nao					448594		2259567978	0.423127727	TRUE
+28	59976713	Ações e outros TVM cedidos em empréstimo		ENGI11		Para negociacao	Nao					744560		3659512400	0.685281957	TRUE
+34	59976714	Ações e outros TVM cedidos em empréstimo		EQTL3		Para negociacao	Nao					717817		1832586801	0.343171038	TRUE
+31	59976715	Ações e outros TVM cedidos em empréstimo		GNDI3		Para negociacao	Nao					362602		2420730952	0.453307179	TRUE
+36	59976716	Ações e outros TVM cedidos em empréstimo		LAME3		Para negociacao	Nao					287491		885184789	0.165760106	TRUE
+33	59976717	Ações e outros TVM cedidos em empréstimo		LAME4		Para negociacao	Nao					595523		2030733430	0.380276066	TRUE
+35	59976718	Ações e outros TVM cedidos em empréstimo		LREN3		Para negociacao	Nao					289749		1191737637	0.223165332	TRUE
+29	59976719	Ações e outros TVM cedidos em empréstimo		MGLU3		Para negociacao	Nao					433155		3495994005	0.654661428	TRUE
+26	59976720	Ações e outros TVM cedidos em empréstimo		NTCO3		Para negociacao	Nao					883544		4156190976	0.778290213	TRUE
+30	59976721	Ações e outros TVM cedidos em empréstimo		PSSA3		Para negociacao	Nao					486553		2628845859	0.492278871	TRUE
+3	59976722	Ações e outros TVM cedidos em empréstimo	Cod. Ativo:	RADL3	Dt. Ini. Vigen.:19/12/2011	Para negociacao	Nao					370497		4597867770	0.86099881	FALSE
+4	59976723	Ações e outros TVM cedidos em empréstimo	Cod. Ativo:	RAIL3	Dt. Ini. Vigen.:13/03/2017	Para negociacao	Nao					1881555		4180815210	0.782901358	FALSE
+25	59976724	Ações e outros TVM cedidos em empréstimo		RENT3		Para negociacao	Nao					909862		4633017304	0.867580928	TRUE
+38	59976725	Ações e outros TVM cedidos em empréstimo		TEND3		Para negociacao	Nao					68268		228083388	0.042710999	TRUE
+27	59976726	Ações e outros TVM cedidos em empréstimo		TOTS3		Para negociacao	Nao					1607964		4153371012	0.777762145	TRUE
+24	59976727	Ações e outros TVM cedidos em empréstimo		WEGE3		Para negociacao	Nao					1203548		8105895780	1.517913731	TRUE
+20	59976728	Ações		ALPA4		Para negociacao	Nao		0		4493752900	1538900		4841379400	0.906598909	TRUE
+23	59976729	Ações		ALPK3		Para negociacao	Nao		0		0	515700		499197600	0.09347997	TRUE
+19	59976730	Ações		AMBP3		Para negociacao	Nao		0		4790160900	1727700		5112264300	0.957324938	TRUE
+0	59976731	Ações	Cod. Ativo:	B3SA3	Dt. Ini. Vigen.:26/03/2018	Para negociacao	Nao	0	0	1103700	6605007798	9986700		63355624800	11.86400312	FALSE
+11	59976732	Ações		ENEV3		Para negociacao	Nao		0		886909600	2996606		15093904422	2.826491409	TRUE
+40	59976733	Certificado ou recibo de depósito de valores mobiliários		ENGI11		Para negociacao	Nao					2996243		14726534345	2.757697521	TRUE
+15	59976734	Ações		EQTL3		Para negociacao	Nao		1125042400		469277100	3309883		8450131299	1.582375431	TRUE
+9	59976735	Ações		GNDI3		Para negociacao	Nao		0		1204184400	3178098		21216982248	3.973101748	TRUE
+39	59976736	Certificado ou recibo de depósito de valores mobiliários		KLBN11		Para negociacao	Nao					7823400		16163144400	3.026717773	TRUE
+21	59976737	Ações		LAME3		Para negociacao	Nao		0		262120000	1364009		4199783711	0.786453408	TRUE
+12	59976738	Ações		LAME4		Para negociacao	Nao		0		778406100	3692877		12592710570	2.35811671	TRUE
+18	59976739	Ações		LREN3		Para negociacao	Nao		0		350872500	1333938		5486486994	1.02740205	TRUE
+10	59976740	Ações		MGLU3		Para negociacao	Nao		1509800300		1381791800	2153145		17378033295	3.25421842	TRUE
+6	59976741	Ações		NTCO3		Para negociacao	Nao		0		12547828400	7296175		34321207200	6.427004874	TRUE
+17	59976742	Ações		PSSA3		Para negociacao	Nao		0		521969200	1383747		7476385041	1.400031264	TRUE
+2	59976743	Ações	Cod. Ativo:	RADL3	Dt. Ini. Vigen.:19/12/2011	Para negociacao	Nao	0	0	96100	1108504595	1504903		18675846230	3.497247461	FALSE
+1	59976744	Ações	Cod. Ativo:	RAIL3	Dt. Ini. Vigen.:13/03/2017	Para negociacao	Nao	3564300	8106605750	379600	873640894	10191772		22646117384	4.240722244	FALSE
+13	59976745	Ações		RENT3		Para negociacao	Nao		0		760450200	2351210		11972361320	2.241949827	TRUE
+16	59976746	Ações		SOMA3		Para negociacao	Nao		0		7019853400	6911555		7623445165	1.42756981	TRUE
+14	59976747	Ações		TEND3		Para negociacao	Nao		0		483152700	2720732		9089965612	1.702191096	TRUE
+5	59976748	Ações		TOTS3		Para negociacao	Nao		0		2092065600	14208810		36701356230	6.872712664	TRUE
+22	59976749	Ações		VIVA3		Para negociacao	Nao		1394924200		136680900	1390200		3082073400	0.577150467	TRUE
+7	59976750	Ações		WEGE3		Para negociacao	Nao		0		1585376100	3871452		26074229220	4.882672025	TRUE
+55	59976751	Investimento no Exterior		StoneCo Ltd		Para negociacao	Nao							26726256100	5.004770876	TRUE
+54	59976752	Investimento no Exterior		XP Inc		Para negociacao	Nao							26851914000	5.028301631	TRUE
+53	59976753	Investimento no Exterior		MERCADOLIBRE INC		Para negociacao	Nao							31588821200	5.915337028	TRUE
+56	59976754	Investimento no Exterior		FCST		Para negociacao	Nao							5336299700	0.999277909	TRUE
+52	59976755	Disponibilidades				Para negociacao								15700	2.94E-06	TRUE
+57	59976756	Valores a pagar				Para negociacao								11609370500	2.173976001	TRUE
+58	59976757	Valores a receber				Para negociacao								2304997500	0.43163488	TRUE
+8	59976758	Ações		BPAC11		Para negociacao	Nao		0		3266953800	2938075		25390844150	4.754701026	TRUE
+37	59976759	Ações e outros TVM cedidos em empréstimo		BPAC11		Para negociacao	Nao					97285		840736970	0.157436787	TRUE

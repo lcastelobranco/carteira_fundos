@@ -1,40 +1,57 @@
-	index	aserestudado	ativo1	ativo2	ativo3	ativo4	classificacao	emp_ligada	vendas_quant	vendas_montante	aquis_quant	aquis_montante	pf_quant	pf_valor_custo	pf_valor_mercado	porcent_partrimonio_liquido	fechado	candidatos	cand_pf_quant	grupo
-0	35	58334034	Ações e outros TVM cedidos em empréstimo		ARZZ3		Para negociacao	Nao					113579.0		482710700	0.0	True	ARZZ3	113579.0	2
-103	28	58334035	Ações e outros TVM cedidos em empréstimo		ENEV3		Para negociacao	Nao					565105.0		2033247700	0.0	True	ENEV3	565105.0	2
-182	23	58334036	Ações e outros TVM cedidos em empréstimo		ENGI11		Para negociacao	Nao					956813.0		4181272800	1.0	True	ENGI11	956813.0	2
-185	2	58334037	Ações e outros TVM cedidos em empréstimo	Cod. Ativo:	EQTL3	Dt. Ini. Vigen.:03/04/2006	Para negociacao	Nao					373863.0		685290879	0.201	False	EQTL3	373863.0	2
-243	30	58334038	Ações e outros TVM cedidos em empréstimo		EZTC3		Para negociacao	Nao					436519.0		1318723800	0.0	True	EZTC3	436519.0	2
-312	33	58334039	Ações e outros TVM cedidos em empréstimo		GNDI3		Para negociacao	Nao					184105.0		1009079500	0.0	True	GNDI3	184105.0	2
-330	29	58334040	Ações e outros TVM cedidos em empréstimo		LREN3		Para negociacao	Nao					384993.0		1477988100	0.0	True	LREN3	384993.0	2
-412	31	58334041	Ações e outros TVM cedidos em empréstimo		MGLU3		Para negociacao	Nao					255861.0		1271629100	0.0	True	MGLU3	255861.0	2
-474	27	58334042	Ações e outros TVM cedidos em empréstimo		PSSA3		Para negociacao	Nao					462771.0		2095889800	0.0	True	PSSA3	462771.0	2
-551	36	58334043	Ações e outros TVM cedidos em empréstimo		RADL3		Para negociacao	Nao					40060.0		419748600	0.0	True	RADL3	40060.0	2
-593	1	58334044	Ações e outros TVM cedidos em empréstimo	Cod. Ativo:	RAIL3	Dt. Ini. Vigen.:13/03/2017	Para negociacao	Nao					580804.0		1149411116	0.337	False	RAIL3	580804.0	2
-619	24	58334045	Ações e outros TVM cedidos em empréstimo		RENT3		Para negociacao	Nao					1182974.0		4044588100	1.0	True	RENT3	1182974.0	2
-665	32	58334046	Ações e outros TVM cedidos em empréstimo		SULA11		Para negociacao	Nao					258124.0		1155104900	0.0	True	SULA11	258124.0	2
-724	26	58334047	Ações e outros TVM cedidos em empréstimo		TOTS3		Para negociacao	Nao					415970.0		2460462500	0.0	True	TOTS3	415970.0	2
-779	34	58334048	Ações e outros TVM cedidos em empréstimo		VIVA3		Para negociacao	Nao					370443.0		686430800	0.0	True	VIVA3	370443.0	2
-848	25	58334049	Ações e outros TVM cedidos em empréstimo		WEGE3		Para negociacao	Nao					743487.0		2969487000	0.0	True	WEGE3	743487.0	2
-937	21	58334050	Ações		ARZZ3		Para negociacao	Nao		0.0		83887900.0	780321.0		3316364200	0.0	True	ARZZ3	780321.0	1
-960	0	58334051	Ações	Cod. Ativo:	B3SA3	Dt. Ini. Vigen.:26/03/2018	Para negociacao	Nao	0.0	0.0	1548600.0	6000063500.0	10037300.0		38563306600	11.323	False	B3SA3	10037300.0	1
-1026	13	58334052	Ações		ENEV3		Para negociacao	Nao		0.0		252126300.0	2521995.0		9074138000	2.0	True	ENEV3	2521995.0	1
-1106	37	58334053	Certificado ou recibo de depósito de valores mobiliários		ENGI11		Para negociacao	Nao					2394690.0		10464795300	3.0	True	ENGI11	2394690.0	1
-1166	15	58334054	Ações		EQTL3		Para negociacao	Nao		0.0		169155600.0	3690237.0		6764204400	1.0	True	EQTL3	3690237.0	1
-1234	14	58334055	Ações		EZTC3		Para negociacao	Nao		940271100.0		204663000.0	2947199.0		8903488100	2.0	True	EZTC3	2947199.0	1
-1300	5	58334056	Ações		GNDI3		Para negociacao	Nao		0.0		4278012700.0	2988695.0		16381037200	4.0	True	GNDI3	2988695.0	1
-1314	22	58334057	Ações		LAME3		Para negociacao	Nao		0.0		1158769700.0	596700.0		1213091100	0.0	True	LAME3	596700.0	1
-1392	18	58334058	Ações		LAME4		Para negociacao	Nao		0.0		5549048100.0	2217500.0		5517140000	1.0	True	LAME4	2217500.0	1
-1464	17	58334059	Ações		LREN3		Para negociacao	Nao		4098481600.0		178673900.0	1482894.0		5692830000	1.0	True	LREN3	1482894.0	1
-1587	10	58334060	Ações		MGLU3		Para negociacao	Nao		0.0		3392529200.0	2182439.0		10846721800	3.0	True	MGLU3	2182439.0	1
-1631	9	58334061	Ações		NTCO3		Para negociacao	Nao		0.0		2561820300.0	3159600.0		11222899200	3.0	True	NTCO3	3159600.0	1
-1714	20	58334062	Ações		PSSA3		Para negociacao	Nao		0.0		139142400.0	878729.0		3979763600	1.0	True	PSSA3	878729.0	1
-1792	8	58334063	Ações		RADL3		Para negociacao	Nao		0.0		1804256600.0	1165040.0		12207289100	3.0	True	RADL3	1165040.0	1
-1845	3	58334064	Ações		RAIL3		Para negociacao	Nao		0.0		676454700.0	13830223.0		27370011300	8.0	True	RAIL3	13830223.0	1
-1910	11	58334065	Ações		RENT3		Para negociacao	Nao		0.0		297751500.0	2871598.0		9817993500	2.0	True	RENT3	2871598.0	1
-2015	38	58334066	Certificado ou recibo de depósito de valores mobiliários		SULA11		Para negociacao	Nao					1215776.0		5440597600	1.0	True	SULA11	1215776.0	1
-2091	6	58334067	Ações		SUZB3		Para negociacao	Nao		0.0		6937205200.0	3690300.0		14543472300	4.0	True	SUZB3	3690300.0	1
-2161	19	58334068	Ações		TEND3		Para negociacao	Nao		0.0		102654700.0	2033200.0		4725156800	1.0	True	TEND3	2033200.0	1
-2260	4	58334069	Ações		TOTS3		Para negociacao	Nao		0.0		488457100.0	3416488.0		20208526500	5.0	True	TOTS3	3416488.0	1
-2325	16	58334070	Ações		VIVA3		Para negociacao	Nao		0.0		145085500.0	3483657.0		6455216400	1.0	True	VIVA3	3483657.0	1
-2378	12	58334071	Ações		WEGE3		Para negociacao	Nao		0.0		278855500.0	2394613.0		9564084300	2.0	True	WEGE3	2394613.0	1
-2502	7	58334079	Ações		BPAC11		Para negociacao	Nao		0.0		269829400.0	2992600.0		12658698000	3.0	True	BPAC11	2992600.0	3
+	aserestudado	ativo1	ativo2	ativo3	ativo4	classificacao	emp_ligada	vendas_quant	vendas_montante	aquis_quant	aquis_montante	pf_quant	pf_valor_custo	pf_valor_mercado	porcent_partrimonio_liquido	fechado
+48	58334024	Cotas de Fundos		BNY MELLON ARX LIQUIDEZ FUNDO DE INVESTIMENTO RENDA FIXA REFERENCIADO DI			Sim					2086904		378062025	0.111	FALSE
+41	58334025	Cotas de Fundos		BNY MELLON ARX LIQUIDEZ FUNDO DE INVESTIMENTO RENDA FIXA REFERENCIADO DI II			Sim					2125457		378236921	0.111	FALSE
+39	58334026	Cotas de Fundos		BNY MELLON ARX LIQUIDEZ FUNDO DE INVESTIMENTO RENDA FIXA REFERENCIADO DI III			Sim					2125528		378246471	0.111	FALSE
+45	58334027	Cotas de Fundos		BNY MELLON ARX LIQUIDEZ FUNDO DE INVESTIMENTO RENDA FIXA REFERENCIADO DI IV			Sim					2125393		378228252	0.111	FALSE
+46	58334028	Cotas de Fundos		BNY MELLON ARX LIQUIDEZ FUNDO DE INVESTIMENTO RENDA FIXA REFERENCIADO DI IX			Sim					2152657		378219776	0.111	FALSE
+40	58334029	Cotas de Fundos		BNY MELLON ARX LIQUIDEZ FUNDO DE INVESTIMENTO RENDA FIXA REFERENCIADO DI V			Sim					2132011		378238086	0.111	FALSE
+43	58334030	Cotas de Fundos		BNY MELLON ARX LIQUIDEZ FUNDO DE INVESTIMENTO RENDA FIXA REFERENCIADO DI VI			Sim					2132024		378234427	0.111	FALSE
+42	58334031	Cotas de Fundos		BNY MELLON ARX LIQUIDEZ FUNDO DE INVESTIMENTO RENDA FIXA REFERENCIADO DI VII			Sim					2132030		378236688	0.111	FALSE
+47	58334032	Cotas de Fundos		BNY MELLON ARX LIQUIDEZ FUNDO DE INVESTIMENTO RENDA FIXA REFERENCIADO DI X			Sim					2152632		378200279	0.111	FALSE
+44	58334033	Cotas de Fundos		BNY MELLON ARX LIQUIDEZ FUNDO DE INVESTIMENTO RENDA FIXA REFERENCIADO DI VIII			Sim					2152756		378233764	0.111	FALSE
+35	58334034	Ações e outros TVM cedidos em empréstimo	Cod. Ativo:	ARZZ3	Dt. Ini. Vigen.:02/02/2011	Para negociacao	Nao					113579		482710750	0.142	FALSE
+26	58334035	Ações e outros TVM cedidos em empréstimo	Cod. Ativo:	ENEV3	Dt. Ini. Vigen.:22/10/2013	Para negociacao	Nao					565105		2033247790	0.597	FALSE
+21	58334036	Ações e outros TVM cedidos em empréstimo	Cod. Ativo:	ENGI11	Dt. Ini. Vigen.:03/11/2009	Para negociacao	Nao					956813		4181272810	1.228	FALSE
+34	58334037	Ações e outros TVM cedidos em empréstimo	Cod. Ativo:	EQTL3	Dt. Ini. Vigen.:03/04/2006	Para negociacao	Nao					373863		685290879	0.201	FALSE
+28	58334038	Ações e outros TVM cedidos em empréstimo	Cod. Ativo:	EZTC3	Dt. Ini. Vigen.:22/06/2007	Para negociacao	Nao					436519		1318723899	0.387	FALSE
+32	58334039	Ações e outros TVM cedidos em empréstimo	Cod. Ativo:	GNDI3	Dt. Ini. Vigen.:23/04/2018	Para negociacao	Nao					184105		1009079505	0.296	FALSE
+27	58334040	Ações e outros TVM cedidos em empréstimo	Cod. Ativo:	LREN3	Dt. Ini. Vigen.:02/01/1998	Para negociacao	Nao					384993		1477988127	0.434	FALSE
+29	58334041	Ações e outros TVM cedidos em empréstimo	Cod. Ativo:	MGLU3	Dt. Ini. Vigen.:02/05/2011	Para negociacao	Nao					255861		1271629170	0.373	FALSE
+25	58334042	Ações e outros TVM cedidos em empréstimo	Cod. Ativo:	PSSA3	Dt. Ini. Vigen.:22/11/2004	Para negociacao	Nao					462771		2095889859	0.615	FALSE
+36	58334043	Ações e outros TVM cedidos em empréstimo	Cod. Ativo:	RADL3	Dt. Ini. Vigen.:19/12/2011	Para negociacao	Nao					40060		419748680	0.123	FALSE
+31	58334044	Ações e outros TVM cedidos em empréstimo	Cod. Ativo:	RAIL3	Dt. Ini. Vigen.:13/03/2017	Para negociacao	Nao					580804		1149411116	0.337	FALSE
+22	58334045	Ações e outros TVM cedidos em empréstimo	Cod. Ativo:	RENT3	Dt. Ini. Vigen.:23/05/2005	Para negociacao	Nao					1182974		4044588106	1.188	FALSE
+30	58334046	Ações e outros TVM cedidos em empréstimo	Cod. Ativo:	SULA11	Dt. Ini. Vigen.:05/10/2007	Para negociacao	Nao					258124		1155104900	0.339	FALSE
+24	58334047	Ações e outros TVM cedidos em empréstimo	Cod. Ativo:	TOTS3	Dt. Ini. Vigen.:09/03/2006	Para negociacao	Nao					415970		2460462550	0.722	FALSE
+33	58334048	Ações e outros TVM cedidos em empréstimo	Cod. Ativo:	VIVA3	Dt. Ini. Vigen.:10/10/2019	Para negociacao	Nao					370443		686430879	0.202	FALSE
+23	58334049	Ações e outros TVM cedidos em empréstimo	Cod. Ativo:	WEGE3	Dt. Ini. Vigen.:02/08/2004	Para negociacao	Nao					743487		2969487078	0.872	FALSE
+19	58334050	Ações	Cod. Ativo:	ARZZ3	Dt. Ini. Vigen.:02/02/2011	Para negociacao	Nao	0	0	20300	83887900	780321		3316364250	0.974	FALSE
+0	58334051	Ações	Cod. Ativo:	B3SA3	Dt. Ini. Vigen.:26/03/2018	Para negociacao	Nao	0	0	1548600	6000063500	10037300		38563306600	11.323	FALSE
+11	58334052	Ações	Cod. Ativo:	ENEV3	Dt. Ini. Vigen.:22/10/2013	Para negociacao	Nao	0	0	71100	252126300	2521995		9074138010	2.664	FALSE
+37	58334053	Certificado ou recibo de depósito de valores mobiliários	Cod. Ativo:	ENGI11	Dt. Ini. Vigen.:03/11/2009	Para negociacao	Nao					2394690		10464795300	3.073	FALSE
+13	58334054	Ações	Cod. Ativo:	EQTL3	Dt. Ini. Vigen.:03/04/2006	Para negociacao	Nao	0	0	93600	169155600	3690237		6764204421	1.986	FALSE
+12	58334055	Ações	Cod. Ativo:	EZTC3	Dt. Ini. Vigen.:22/06/2007	Para negociacao	Nao	294200	940271166	68000	204663000	2947199		8903488179	2.614	FALSE
+3	58334056	Ações	Cod. Ativo:	GNDI3	Dt. Ini. Vigen.:23/04/2018	Para negociacao	Nao	0	0	805200	4278012716	2988695		16381037295	4.81	FALSE
+20	58334057	Ações	Cod. Ativo:	LAME3	Dt. Ini. Vigen.:03/04/1996	Para negociacao	Nao	0	0	596700	1158769766	596700		1213091100	0.356	FALSE
+16	58334058	Ações	Cod. Ativo:	LAME4	Dt. Ini. Vigen.:03/04/1996	Para negociacao	Nao	0	0	2217500	5549048161	2217500		5517140000	1.62	FALSE
+15	58334059	Ações	Cod. Ativo:	LREN3	Dt. Ini. Vigen.:02/01/1998	Para negociacao	Nao	1102800	4098481647	48600	178673900	1482894		5692830066	1.671	FALSE
+8	58334060	Ações	Cod. Ativo:	MGLU3	Dt. Ini. Vigen.:02/05/2011	Para negociacao	Nao	0	0	712900	3392529265	2182439		10846721830	3.185	FALSE
+7	58334061	Ações	Cod. Ativo:	NTCO3	Dt. Ini. Vigen.:18/12/2019	Para negociacao	Nao	0	0	867100	2561820341	3159600		11222899200	3.295	FALSE
+18	58334062	Ações	Cod. Ativo:	PSSA3	Dt. Ini. Vigen.:22/11/2004	Para negociacao	Nao	0	0	30700	139142400	878729		3979763641	1.169	FALSE
+6	58334063	Ações	Cod. Ativo:	RADL3	Dt. Ini. Vigen.:19/12/2011	Para negociacao	Nao	0	0	168800	1804256610	1165040		12207289120	3.584	FALSE
+1	58334064	Ações	Cod. Ativo:	RAIL3	Dt. Ini. Vigen.:13/03/2017	Para negociacao	Nao	0	0	332900	676454700	13830223		27370011317	8.036	FALSE
+9	58334065	Ações	Cod. Ativo:	RENT3	Dt. Ini. Vigen.:23/05/2005	Para negociacao	Nao	0	0	93800	297751500	2871598		9817993562	2.883	FALSE
+38	58334066	Certificado ou recibo de depósito de valores mobiliários	Cod. Ativo:	SULA11	Dt. Ini. Vigen.:05/10/2007	Para negociacao	Nao					1215776		5440597600	1.597	FALSE
+4	58334067	Ações	Cod. Ativo:	SUZB3	Dt. Ini. Vigen.:05/08/2004	Para negociacao	Nao	0	0	1834800	6937205214	3690300		14543472300	4.27	FALSE
+17	58334068	Ações	Cod. Ativo:	TEND3	Dt. Ini. Vigen.:15/10/2007	Para negociacao	Nao	0	0	46800	102654700	2033200		4725156800	1.387	FALSE
+2	58334069	Ações	Cod. Ativo:	TOTS3	Dt. Ini. Vigen.:09/03/2006	Para negociacao	Nao	0	0	88600	488457100	3416488		20208526520	5.933	FALSE
+14	58334070	Ações	Cod. Ativo:	VIVA3	Dt. Ini. Vigen.:10/10/2019	Para negociacao	Nao	0	0	89000	145085500	3483657		6455216421	1.895	FALSE
+10	58334071	Ações	Cod. Ativo:	WEGE3	Dt. Ini. Vigen.:02/08/2004	Para negociacao	Nao	0	0	72500	278855500	2394613		9564084322	2.808	FALSE
+51	58334072	Investimento no Exterior	Nome do emissor: 	MERCADOLIBRE INC		Para negociacao	Nao					51260		16298352745	4.785	FALSE
+52	58334073	Investimento no Exterior	Nome do emissor: 	StoneCo Ltd		Para negociacao	Nao					968200		13917354108	4.086	FALSE
+50	58334074	Investimento no Exterior	Nome do emissor: 	XP Inc		Para negociacao	Nao					1212520		16623266044	4.881	FALSE
+53	58334075	Investimento no Exterior	Nome do emissor: 	FCST		Para negociacao	Nao					14753336		8039093048	2.36	FALSE
+49	58334076	Disponibilidades	Descrição:	Disponibilidade		Para negociacao								17692	0	FALSE
+54	58334077	Valores a pagar	Descrição:	Valores a Pagar		Para negociacao								4998407779	-1.468	FALSE
+55	58334078	Valores a receber	Descrição:	Valores a Receber		Para negociacao								4553088916	1.337	FALSE
+5	58334079	Ações	Descrição:	BPAC11	CNPJ do emissor:30.306.294/0001-45 Denominação Social do emissor: BANCO PACTUAL SA	Para negociacao	Nao	0	0	68900	269829400	2992600		12658698000	3.717	FALSE

@@ -1,0 +1,103 @@
+	position	aserestudado	ativo1	ativo2	ativo3	ativo4	classificacao	emp_ligada	vendas_quant	vendas_montante	aquis_quant	aquis_montante	pf_quant	pf_valor_custo	pf_valor_mercado	porcent_partrimonio_liquido	fechado	candidatos	cand_pf_quant	grupo
+12	29	58742098	Ações e outros TVM cedidos em empréstimo		MRVE3		Para negociacao	Nao					1574028		2387800400	0	FALSE	MRVE3	1574028	2
+75	47	58742099	Obrigações por ações e outros TVM recebidos em empréstimo		RAIL3		Para negociacao	Nao					-164945		-371621000	0	FALSE	RAIL3	164945	1
+186	46	58742100	Obrigações por ações e outros TVM recebidos em empréstimo		CMIG4		Para negociacao	Nao					-3107149		-3355720900	0	TRUE	CMIG4	3107149	1
+254	44	58742101	Obrigações por ações e outros TVM recebidos em empréstimo		BBDC4		Para negociacao	Nao					-9000412		-17055780700	-3	TRUE	BBDC4	9000412	1
+304	11	58742102	Ações		ALPA4		Para negociacao	Nao		0		631399500	5051768		12543539900	2	FALSE	ALPA4	5051768	1
+362	16	58742103	Ações		ANIM3		Para negociacao	Nao		0		0	2902797		6365833800	1	FALSE	ANIM3	2902797	1
+415	13	58742104	Ações		B3SA3		Para negociacao	Nao		1923973500		0	2305503		10501566100	2	FALSE	B3SA3	2305503	1
+468	26	58742105	Ações		BRAP4		Para negociacao	Nao		0		554341500	169067		595961100	0	TRUE	BRAP4	169067	1
+525	10	58742106	Ações		BRML3		Para negociacao	Nao		2171744800		0	14825067		14543390700	2	FALSE	BRML3	14825067	1
+579	20	58742107	Ações		CMIG3		Para negociacao	Nao		0		371515900	3054732		3421299800	0	FALSE	CMIG3	3054732	1
+670	28	58742108	Ações		CMIG4		Para negociacao	Nao		372331100		0	52410		56602800	0	TRUE	CMIG4	52410	1
+736	12	58742109	Ações		CSAN3		Para negociacao	Nao		0		0	1718179		11314208700	2	FALSE	CSAN3	1718179	1
+791	14	58742110	Ações		CYRE3		Para negociacao	Nao		0		2497455700	6079468		10304698200	2	FALSE	CYRE3	6079468	1
+874	6	58742111	Ações		ENEV3		Para negociacao	Nao		0		0	4690757		17914000900	3	FALSE	ENEV3	4690757	1
+954	19	58742112	Ações		EQTL3		Para negociacao	Nao		0		527809100	2359511		4730819500	0	FALSE	EQTL3	2359511	1
+1010	2	58742113	Ações		GGBR4		Para negociacao	Nao		221919000		0	19981510		26835167900	5	FALSE	GGBR4	19981510	1
+1083	24	58742114	Ações		GOAU3		Para negociacao	Nao		26519000		0	2000659		1132372900	0	FALSE	GOAU3	2000659	1
+1142	15	58742115	Ações		GOAU4		Para negociacao	Nao		0		249588000	12588651		7767197600	1	FALSE	GOAU4	12588651	1
+1204	21	58742116	Ações		HBOR3		Para negociacao	Nao		0		0	10642017		1936847000	0	TRUE	HBOR3	10642017	1
+1271	5	58742117	Ações		ITUB4		Para negociacao	Nao		0		8095891300	7890701		18180175100	3	FALSE	ITUB4	7890701	1
+1314	23	58742118	Ações		LCAM3		Para negociacao	Nao		489122900		0	793980		1174296400	0	FALSE	LCAM3	793980	1
+1363	7	58742119	Ações		MRVE3		Para negociacao	Nao		0		2230204500	11340947		17204216500	3	FALSE	MRVE3	11340947	1
+1465	0	58742120	Ações		NTCO3		Para negociacao	Nao		3724636200		906515000	13944106		51844186100	10	FALSE	NTCO3	13944106	1
+1493	22	58742121	Ações		OFSA3		Para negociacao	Nao		0		0	625684		1501641600	0	FALSE	OFSA3	625684	1
+1559	17	58742122	Ações		PARD3		Para negociacao	Nao		0		0	3046898		5639808100	1	FALSE	PARD3	3046898	1
+1621	27	58742123	Ações		RAIL3		Para negociacao	Nao		0		0	82829		186613700	0	FALSE	RAIL3	82829	1
+1677	1	58742124	Ações		RENT3		Para negociacao	Nao		0		4528597500	8554165		32916426900	6	FALSE	RENT3	8554165	1
+1770	18	58742125	Ações		STBP3		Para negociacao	Nao		0		422054400	11529648		4842452100	0	FALSE	STBP3	11529648	1
+1833	8	58742126	Ações		SUZB3		Para negociacao	Nao		1815228800		2238845100	4307486		16308141900	3	FALSE	SUZB3	4307486	1
+1902	25	58742127	Ações		TECN3		Para negociacao	Nao		0		0	6042067		712963900	0	TRUE	TECN3	6042067	1
+1967	32	58742128	Certificado ou recibo de depósito de valores mobiliários		TIET11		Para negociacao	Nao					217323		294907300	0	FALSE	TIET11	217323	1
+2034	4	58742129	Ações		UGPA3		Para negociacao	Nao		570351800		200109600	10765204		18430029200	3	FALSE	UGPA3	10765204	1
+2101	3	58742130	Ações		VALE3		Para negociacao	Nao		10690899500		8293028400	4839255		25648051500	5	FALSE	VALE3	4839255	1
+2215	91	58742182	Valores a pagar				Para negociacao						-677621		-691173400	0	TRUE	AALR3	677621	3
+2243	9	58742183	Ações		LREN3		Para negociacao	Nao		1327029000		0	4164544		16054317100	3	FALSE	LREN3	4164544	3
+2329	31	58742184	Certificado ou recibo de depósito de valores mobiliários				Para negociacao	Nao					1209450		903459100	0	TRUE	ALUP4	1209450	3
+2330	31	58742184	Certificado ou recibo de depósito de valores mobiliários				Para negociacao	Nao					345359		903459100	0	TRUE	ARMT34	345359	3
+2331	31	58742184	Certificado ou recibo de depósito de valores mobiliários				Para negociacao	Nao					669229		903459100	0	TRUE	BALM3	669229	3
+2343	31	58742184	Certificado ou recibo de depósito de valores mobiliários				Para negociacao	Nao					357381		903459100	0	TRUE	BBSE3	357381	3
+2332	31	58742184	Certificado ou recibo de depósito de valores mobiliários				Para negociacao	Nao					1942923		903459100	0	TRUE	BMGB4	1942923	3
+2333	31	58742184	Certificado ou recibo de depósito de valores mobiliários				Para negociacao	Nao					5542694		903459100	0	TRUE	BOBR4	5542694	3
+2334	31	58742184	Certificado ou recibo de depósito de valores mobiliários				Para negociacao	Nao					417495		903459100	0	TRUE	BRDT3	417495	3
+2335	31	58742184	Certificado ou recibo de depósito de valores mobiliários				Para negociacao	Nao					1046882		903459100	0	TRUE	BRPR3	1046882	3
+2336	31	58742184	Certificado ou recibo de depósito de valores mobiliários				Para negociacao	Nao					3435206		903459100	0	TRUE	BSEV3	3435206	3
+2337	31	58742184	Certificado ou recibo de depósito de valores mobiliários				Para negociacao	Nao					347618		903459100	0	TRUE	CGRA4	347618	3
+2338	31	58742184	Certificado ou recibo de depósito de valores mobiliários				Para negociacao	Nao					1717603		903459100	0	TRUE	COGN3	1717603	3
+2339	31	58742184	Certificado ou recibo de depósito de valores mobiliários				Para negociacao	Nao					669229		903459100	0	TRUE	CTKA3	669229	3
+2340	31	58742184	Certificado ou recibo de depósito de valores mobiliários				Para negociacao	Nao					41085		903459100	0	TRUE	DHER34	41085	3
+2341	31	58742184	Certificado ou recibo de depósito de valores mobiliários				Para negociacao	Nao					7788441		903459100	0	TRUE	DMMO3	7788441	3
+2342	31	58742184	Certificado ou recibo de depósito de valores mobiliários				Para negociacao	Nao					1642653		903459100	0	TRUE	DTCY3	1642653	3
+2345	31	58742184	Certificado ou recibo de depósito de valores mobiliários				Para negociacao	Nao					40315		903459100	0	TRUE	E1SE34	40315	3
+2344	31	58742184	Certificado ou recibo de depósito de valores mobiliários				Para negociacao	Nao					894514		903459100	0	TRUE	ENAT3	894514	3
+2353	31	58742184	Certificado ou recibo de depósito de valores mobiliários				Para negociacao	Nao					3672598		903459100	0	TRUE	FHER3	3672598	3
+2356	31	58742184	Certificado ou recibo de depósito de valores mobiliários				Para negociacao	Nao					1691871		903459100	0	TRUE	FRTA3	1691871	3
+2355	31	58742184	Certificado ou recibo de depósito de valores mobiliários				Para negociacao	Nao					3962540		903459100	0	TRUE	GSFI11	3962540	3
+2357	31	58742184	Certificado ou recibo de depósito de valores mobiliários				Para negociacao	Nao					5075613		903459100	0	TRUE	HAGA4	5075613	3
+2358	31	58742184	Certificado ou recibo de depósito de valores mobiliários				Para negociacao	Nao					135127		903459100	0	TRUE	HALI34	135127	3
+2352	31	58742184	Certificado ou recibo de depósito de valores mobiliários				Para negociacao	Nao					4964061		903459100	0	TRUE	HBOR3	4964061	3
+2354	31	58742184	Certificado ou recibo de depósito de valores mobiliários				Para negociacao	Nao					72567		903459100	0	TRUE	HLOG11	72567	3
+2350	31	58742184	Certificado ou recibo de depósito de valores mobiliários				Para negociacao	Nao					4586087		903459100	0	TRUE	IDVL3	4586087	3
+2349	31	58742184	Certificado ou recibo de depósito de valores mobiliários				Para negociacao	Nao					3542977		903459100	0	TRUE	IGBR3	3542977	3
+2348	31	58742184	Certificado ou recibo de depósito de valores mobiliários				Para negociacao	Nao					1585016		903459100	0	TRUE	INEP4	1585016	3
+2351	31	58742184	Certificado ou recibo de depósito de valores mobiliários				Para negociacao	Nao					1088505		903459100	0	TRUE	IRBR3	1088505	3
+2347	31	58742184	Certificado ou recibo de depósito de valores mobiliários				Para negociacao	Nao					866212		903459100	0	TRUE	ITSA3	866212	3
+2346	31	58742184	Certificado ou recibo de depósito de valores mobiliários				Para negociacao	Nao					7345196		903459100	0	TRUE	JBDU4	7345196	3
+2327	31	58742184	Certificado ou recibo de depósito de valores mobiliários				Para negociacao	Nao					411224		903459100	0	TRUE	JBSS3	411224	3
+2328	31	58742184	Certificado ou recibo de depósito de valores mobiliários				Para negociacao	Nao					7528826		903459100	0	TRUE	JCPC34	7528826	3
+2325	31	58742184	Certificado ou recibo de depósito de valores mobiliários				Para negociacao	Nao					1890082		903459100	0	TRUE	JHSF3	1890082	3
+2321	31	58742184	Certificado ou recibo de depósito de valores mobiliários				Para negociacao	Nao					104422		903459100	0	TRUE	KMIC34	104422	3
+2305	31	58742184	Certificado ou recibo de depósito de valores mobiliários				Para negociacao	Nao					2156227		903459100	0	TRUE	KNRE11	2156227	3
+2300	31	58742184	Certificado ou recibo de depósito de valores mobiliários				Para negociacao	Nao					647641		903459100	0	TRUE	LOGN3	647641	3
+2304	31	58742184	Certificado ou recibo de depósito de valores mobiliários				Para negociacao	Nao					2402817		903459100	0	TRUE	LPSB3	2402817	3
+2303	31	58742184	Certificado ou recibo de depósito de valores mobiliários				Para negociacao	Nao					5791405		903459100	0	TRUE	LUPA3	5791405	3
+2302	31	58742184	Certificado ou recibo de depósito de valores mobiliários				Para negociacao	Nao					1645645		903459100	0	TRUE	MGEL4	1645645	3
+2301	31	58742184	Certificado ou recibo de depósito de valores mobiliários				Para negociacao	Nao					5508897		903459100	0	TRUE	MMXM3	5508897	3
+2307	31	58742184	Certificado ou recibo de depósito de valores mobiliários				Para negociacao	Nao					2771347		903459100	0	TRUE	MWET4	2771347	3
+2299	31	58742184	Certificado ou recibo de depósito de valores mobiliários				Para negociacao	Nao					834219		903459100	0	TRUE	MXRF11	834219	3
+2295	31	58742184	Certificado ou recibo de depósito de valores mobiliários				Para negociacao	Nao					1814175		903459100	0	TRUE	NTCO1	1814175	3
+2298	31	58742184	Certificado ou recibo de depósito de valores mobiliários				Para negociacao	Nao					242996		903459100	0	TRUE	NTCO3	242996	3
+2297	31	58742184	Certificado ou recibo de depósito de valores mobiliários				Para negociacao	Nao					8213265		903459100	0	TRUE	OIBR4	8213265	3
+2296	31	58742184	Certificado ou recibo de depósito de valores mobiliários				Para negociacao	Nao					1981270		903459100	0	TRUE	PFRM3	1981270	3
+2294	31	58742184	Certificado ou recibo de depósito de valores mobiliários				Para negociacao	Nao					3297296		903459100	0	TRUE	PINE4	3297296	3
+2306	31	58742184	Certificado ou recibo de depósito de valores mobiliários				Para negociacao	Nao					800939		903459100	0	TRUE	PPLA11	800939	3
+2308	31	58742184	Certificado ou recibo de depósito de valores mobiliários				Para negociacao	Nao					3844507		903459100	0	TRUE	PSVM11	3844507	3
+2324	31	58742184	Certificado ou recibo de depósito de valores mobiliários				Para negociacao	Nao					2241834		903459100	0	TRUE	PTNT4	2241834	3
+2310	31	58742184	Certificado ou recibo de depósito de valores mobiliários				Para negociacao	Nao					7721873		903459100	0	TRUE	RCFA11	7721873	3
+2311	31	58742184	Certificado ou recibo de depósito de valores mobiliários				Para negociacao	Nao					5104289		903459100	0	TRUE	RCSL3	5104289	3
+2326	31	58742184	Certificado ou recibo de depósito de valores mobiliários				Para negociacao	Nao					6896635		903459100	0	TRUE	RCSL4	6896635	3
+2312	31	58742184	Certificado ou recibo de depósito de valores mobiliários				Para negociacao	Nao					3672598		903459100	0	TRUE	RNEW3	3672598	3
+2313	31	58742184	Certificado ou recibo de depósito de valores mobiliários				Para negociacao	Nao					4910104		903459100	0	TRUE	RNEW4	4910104	3
+2314	31	58742184	Certificado ou recibo de depósito de valores mobiliários				Para negociacao	Nao					5409935		903459100	0	TRUE	SHOW3	5409935	3
+2315	31	58742184	Certificado ou recibo de depósito de valores mobiliários				Para negociacao	Nao					8288616		903459100	0	TRUE	SLED3	8288616	3
+2316	31	58742184	Certificado ou recibo de depósito de valores mobiliários				Para negociacao	Nao					945041		903459100	0	TRUE	TAEE4	945041	3
+2317	31	58742184	Certificado ou recibo de depósito de valores mobiliários				Para negociacao	Nao					6949686		903459100	0	TRUE	TASA13	6949686	3
+2318	31	58742184	Certificado ou recibo de depósito de valores mobiliários				Para negociacao	Nao					2328503		903459100	0	TRUE	TASA3	2328503	3
+2319	31	58742184	Certificado ou recibo de depósito de valores mobiliários				Para negociacao	Nao					5718096		903459100	0	TRUE	TCNO3	5718096	3
+2320	31	58742184	Certificado ou recibo de depósito de valores mobiliários				Para negociacao	Nao					7592094		903459100	0	TRUE	TCNO4	7592094	3
+2309	31	58742184	Certificado ou recibo de depósito de valores mobiliários				Para negociacao	Nao					2952481		903459100	0	TRUE	TIET3	2952481	3
+2322	31	58742184	Certificado ou recibo de depósito de valores mobiliários				Para negociacao	Nao					8443543		903459100	0	TRUE	TPIS3	8443543	3
+2323	31	58742184	Certificado ou recibo de depósito de valores mobiliários				Para negociacao	Nao					6792926		903459100	0	TRUE	VIVR3	6792926	3
+2366	45	58742185	Obrigações por ações e outros TVM recebidos em empréstimo		SMAL11		Para negociacao	Nao					-462719		-4379635300	0	FALSE	SMAL11	462719	3
+2452	30	58742186	Brazilian Depository Receipt - BDR		WSON33		Para negociacao	Nao					1706994		5035632300	0	TRUE	WSON33	1706994	3

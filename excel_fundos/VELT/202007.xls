@@ -1,0 +1,50 @@
+	aserestudado	ativo1	ativo2	ativo3	ativo4	classificacao	emp_ligada	vendas_quant	vendas_montante	aquis_quant	aquis_montante	pf_quant	pf_valor_custo	pf_valor_mercado	porcent_partrimonio_liquido	fechado
+3	60015316	Cotas de Fundos		BNY MELLON ARX OVER V3 FUNDO DE INVESTIMENTO RENDA FIXA CURTO PRAZO			Sim					190624736.0		19676035921.0	5.748605782448629	False
+5	60015317	Cotas de Fundos		BNY MELLON ARX OVER V2 FUNDO DE INVESTIMENTO RENDA FIXA CURTO PRAZO			Sim					190624739.0		19676035314.0	5.7486056051058085	False
+4	60015318	Cotas de Fundos		BNY MELLON ARX OVER V1 FUNDO DE INVESTIMENTO RENDA FIXA CURTO PRAZO			Sim					190624740.0		19676035369.0	5.748605621174763	False
+24	60015319	Ações		UGPA3		Para negociacao	Nao		0.0		3389738600.0	1763775.0		3340589850.0	0.9759960901475728	True
+36	60015320	Certificado ou recibo de depósito de valores mobiliários		SULA11		Para negociacao	Nao					2404968.0		12193187760.0	3.5623958984953634	True
+26	60015321	Ações		SOMA3		Para negociacao	Nao		0.0		2347345400.0	2371056.0		2615274768.0	0.7640860036228634	True
+28	60015322	Ações		SHOW3		Para negociacao	Nao		0.0		0.0	1156023.0		320218371.0	0.09355589645027058	True
+27	60015323	Ações		SEER3		Para negociacao	Nao		43935600.0		157112100.0	1483821.0		2319212223.0	0.6775875409758731	True
+23	60015324	Ações		RENT3		Para negociacao	Nao		55572000.0		205131100.0	695709.0		3542550228.0	1.0350014000310133	True
+16	60015325	Ações		RAIL3		Para negociacao	Nao		196290900.0		740957900.0	4648363.0		10328662586.0	3.017650999684837	True
+19	60015326	Ações		RADL3		Para negociacao	Nao		0.0		5305479200.0	461997.0		5733382770.0	1.6750811737153128	True
+11	60015327	Ações		NTCO3		Para negociacao	Nao		443289000.0		2581021000.0	4821856.0		22682010624.0	6.626839773733285	True
+15	60015328	Ações		MRVE3		Para negociacao	Nao		278040000.0		951704700.0	6143458.0		11758578612.0	3.435419272139881	True
+0	60015329	Ações	Cod. Ativo:	MGLU3	Dt. Ini. Vigen.:02/05/2011	Para negociacao	Nao	518069.0	4245118857.0	219400.0	1683053600.0	3530999.0		28498692929.0	8.326257972980514	False
+2	60015330	Ações	Cod. Ativo:	ITUB4	Dt. Ini. Vigen.:20/05/2009	Para negociacao	Nao	0.0	0.0	223300.0	598605400.0	3281576.0		8824157864.0	2.578090684825902	False
+17	60015331	Ações		ITSA4		Para negociacao	Nao		161242400.0		601151900.0	8450257.0		9016424219.0	2.634263761789219	True
+21	60015332	Ações		IGTA3		Para negociacao	Nao		81727800.0		289772900.0	1218753.0		4088916315.0	1.1946292468022142	True
+44	60015333	Opções - Posições titulares				Para negociacao	Nao							737318800.0	0.21541712640727212	True
+18	60015334	Ações		HGTX3		Para negociacao	Nao		131793200.0		337316600.0	4372769.0		6471698120.0	1.8907894549626911	True
+12	60015335	Ações		HAPV3		Para negociacao	Nao		336084500.0		1312679300.0	2916414.0		18997520796.0	5.550368902483855	True
+25	60015336	Ações		GNDI3		Para negociacao	Nao		57998000.0		219981500.0	494000.0		3297944000.0	0.9635365591276185	True
+13	60015337	Ações		EQTL3		Para negociacao	Nao		284649000.0		1067337700.0	6268349.0		16003094997.0	4.675509071349236	True
+38	60015338	Certificado ou recibo de depósito de valores mobiliários		ENGI11		Para negociacao	Nao					1134127.0		5574234205.0	1.6285838830668973	True
+10	60015339	Ações		ENEV3		Para negociacao	Nao		544786600.0		2046523700.0	5936277.0		29901027249.0	8.735967896932943	True
+22	60015340	Ações		CVCB3		Para negociacao	Nao		74090800.0		241982000.0	1733432.0		3605538560.0	1.053404247587087	True
+14	60015341	Ações		BRML3		Para negociacao	Nao		244197900.0		7543669600.0	13953099.0		13813568010.0	4.035810732271604	True
+29	60015342	Ações		BIDI4		Para negociacao	Nao		0.0		4798800.0	130000.0		267540000.0	0.07816523598611834	True
+30	60015343	Ações		BIDI3		Para negociacao	Nao		0.0		4448000.0	136268.0		265313796.0	0.077514821988162	True
+37	60015344	Certificado ou recibo de depósito de valores mobiliários		BIDI11		Para negociacao	Nao					1734728.0		10508982224.0	3.070333690337455	True
+1	60015345	Ações	Cod. Ativo:	B3SA3	Dt. Ini. Vigen.:26/03/2018	Para negociacao	Nao	343200.0	2096633729.0	131800.0	790723900.0	2158462.0		13693282928.0	4.000667905703093	False
+20	60015346	Ações		ANIM3		Para negociacao	Nao		79945200.0		293958600.0	1673904.0		4810800096.0	1.40553683481304	True
+31	60015347	Ações e outros TVM cedidos em empréstimo		NTCO3		Para negociacao	Nao					1026392.0		4828147968.0	1.4106052377013445	True
+33	60015348	Ações e outros TVM cedidos em empréstimo		MRVE3		Para negociacao	Nao					826246.0		1581434844.0	0.4620364348431271	True
+34	60015349	Ações e outros TVM cedidos em empréstimo		HAPV3		Para negociacao	Nao					74949.0		488217786.0	0.14263907623275107	True
+35	60015350	Ações e outros TVM cedidos em empréstimo		ENEV3		Para negociacao	Nao					50911.0		256438707.0	0.07492185111994489	True
+32	60015351	Ações e outros TVM cedidos em empréstimo		BRML3		Para negociacao	Nao					3916221.0		3877058790.0	1.1327323587217029	True
+42	60015352	Investimento no Exterior				Para negociacao	Nao							1690464900.0	0.49389096148146044	True
+41	60015353	Investimento no Exterior				Para negociacao	Nao							3571964100.0	1.0435950392855005	True
+39	60015354	Investimento no Exterior				Para negociacao	Nao							11596460500.0	3.3880543903199514	True
+7	60015355	Investimento no Exterior	Nome do emissor: 	MERCADOLIBRE INC		Para negociacao	Nao					5857.0		3433553019.0	1.0031564700642297	False
+40	60015356	Investimento no Exterior				Para negociacao	Nao							4982591100.0	1.4557277758609288	True
+47	60015357	Outros valores mobiliários registrados na CVM objeto de oferta pública				Para negociacao	Nao							316200.0	9.238187792035067e-05	True
+46	60015358	Outros valores mobiliários registrados na CVM objeto de oferta pública				Para negociacao	Nao							11443500.0	0.003343365022079484	True
+48	60015359	Outros valores mobiliários registrados na CVM objeto de oferta pública				Para negociacao	Nao							297400.0	8.688921724703444e-05	True
+45	60015360	Outros valores mobiliários registrados na CVM objeto de oferta pública				Para negociacao	Nao							401878500.0	0.11741394853198496	True
+43	60015361	Mercado Futuro - Posições vendidas				Para negociacao								-47884500.0	-0.013990069681458037	True
+9	60015362	Valores a receber	Descrição:	Valores a Receber		Para negociacao								618319766.0	0.18065003522565398	False
+8	60015363	Valores a pagar	Descrição:	Valores a Pagar		Para negociacao								7254146759.0	2.119391841575729	False
+6	60015364	Disponibilidades	Descrição:	Disponibilidade		Para negociacao								535363.0	0.00015641315404513819	False
